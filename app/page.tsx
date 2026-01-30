@@ -14,7 +14,7 @@ export default function Home() {
                 </div>
 
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-                    <div className="relative rounded-card bg-[#000135]  p-6 overflow-hidden">
+                    <div className="relative rounded-xl border border-[#4C3A00] bg-[#000135]  p-6 overflow-hidden">
                         <div className="relative items-center gap-4 mb-6">
                             <div className="relative w-[96px] h-[96px]">
                                 <div
