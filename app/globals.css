@@ -24,9 +24,10 @@ body {
 }
 
 /* Disable text selection globally */
-img {
+img, span {
   -webkit-user-select: none;
   -ms-user-select: none;
   user-select: none;
   pointer-events: auto; /* keep clickable */
 }
+
